@@ -1,3 +1,7 @@
+<<<<<<< HEAD
+=======
+
+>>>>>>> create_post_model
 class Comment < ApplicationRecord
     validates :content, presence: true
     
@@ -8,3 +12,7 @@ class Comment < ApplicationRecord
 
 
 end
+<<<<<<< HEAD
+=======
+
+>>>>>>> create_post_model
